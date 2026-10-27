@@ -127,6 +127,10 @@ npx wxt build
 
 Personal learning project built to practise TypeScript, browser extension APIs, asynchronous programming, safe tab operations, and automated testing.
 
+## Privacy
+
+See the [Privacy Policy](PRIVACY.md) for details.
+
 ## License
 
 This project is licensed under the MIT License.
