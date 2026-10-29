@@ -6,6 +6,8 @@ TabSift is a lightweight browser extension that helps you identify inactive tabs
 
 Instead of automatically closing your tabs, TabSift gives you control over what stays open and what gets removed.
 
+[Install from Chrome Web Store](https://chromewebstore.google.com/detail/tabsift/jkhicjbejfpnpohgjfkeepcoadjkoelc)
+
 ## Features
 
 - **Tab Overview** - See how many tabs are currently open.
@@ -123,9 +125,12 @@ npx wxt build
 - The toolbar badge refreshes on relevant tab events and periodic alarms, so updates may not be instantaneous.
 - The extension currently focuses on identifying and manually closing inactive tabs rather than restoring sessions or automatically suspending tabs.
 
-## Project Status
+## Behind the Project
 
-Personal learning project built to practise TypeScript, browser extension APIs, asynchronous programming, safe tab operations, and automated testing.
+I wrote about the development process, technical decisions,
+and lessons learned while building TabSift.
+
+[Read the article on Medium](https://medium.com/@mahshid-hajyani/building-tabsift-the-small-browser-extension-that-taught-me-a-lot-37af7d19ada5)
 
 ## Privacy
 
