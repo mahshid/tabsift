@@ -49,7 +49,7 @@ TabSift is available for both Chrome and Firefox.
 
 - Node.js
 - npm
-- Google Chrome or another compatible Chromium browser
+- Google Chrome or Mozilla Firefox
 
 ### Installation
 
