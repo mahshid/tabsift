@@ -6,7 +6,12 @@ TabSift is a lightweight browser extension that helps you identify inactive tabs
 
 Instead of automatically closing your tabs, TabSift gives you control over what stays open and what gets removed.
 
-[Install from Chrome Web Store](https://chromewebstore.google.com/detail/tabsift/jkhicjbejfpnpohgjfkeepcoadjkoelc)
+## Install TabSift
+
+TabSift is available for both Chrome and Firefox.
+
+- [Install for Chrome](https://chromewebstore.google.com/detail/tabsift/jkhicjbejfpnpohgjfkeepcoadjkoelc)
+- [Install for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tabsift/)
 
 ## Features
 
